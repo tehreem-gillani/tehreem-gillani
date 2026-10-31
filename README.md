@@ -2,7 +2,7 @@
 
 I'm an electrical engineer from Karachi (BS Electrical Engineering, electronics stream, FAST-NUCES, 2023). I work as an instructor in the Department of Computer Science at FAST-NUCES, where I run the labs for Operating Systems, Digital Logic Design, ICT, Programming for Business, Databases and IT in Business.
 
-My final-year project detected fire on a Raspberry Pi with a TensorFlow Lite model and turned a camera toward it with a servo. My recent projects are open simulation studies in power and energy: a home PV and battery system under scheduled load-shedding in Karachi, thermal wear of electric scooter motor controllers in hot cities, and the effect of e-scooter home charging on a Lahore neighbourhood transformer. Each repository has the code, data and results, so every number can be reproduced.
+My final-year group project detected fire on a Raspberry Pi with a TensorFlow Lite model and used servo motors to aim a water nozzle at it. My recent projects are open simulation studies in power and energy: a home PV and battery system under scheduled load-shedding in Karachi, thermal wear of electric scooter motor controllers in hot cities, and the effect of e-scooter home charging on a Lahore neighbourhood transformer. Each repository has the code, data and results, so every number can be reproduced.
 
 **Pinned work**
 - [pv-battery-ems-karachi](https://github.com/tehreem-gillani/pv-battery-ems-karachi): how a home battery should hold backup when load-shedding is scheduled; a look-ahead reserve rule serves 99.7 % of outage energy with 23 % less grid import than a tuned fixed reserve, and stays within 1.5-3.1 % of the perfect-foresight optimum
